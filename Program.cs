@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace DigitalInnovationOne
 {
@@ -8,7 +8,9 @@ namespace DigitalInnovationOne
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroDeVezes = 5;
+
+            for (int i=0; i < numeroDeVezes; i++)
         }
     }
 }
